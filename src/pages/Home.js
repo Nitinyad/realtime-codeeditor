@@ -144,12 +144,9 @@ const Home = () => {
                     </span>
                 </div>
             </div>
-            <footer>
-                <h4>
-                    Built with 💛 &nbsp; by &nbsp;
-                    <a href="https://github.com/codersgyan">Coder's Gyan</a>
-                </h4>
-            </footer>
+      <footer>
+        <h4>Built with ❤  by <a href="https://github.com/Nitinyad">Nitin</a></h4>
+      </footer>
         </div>
     );
 };
